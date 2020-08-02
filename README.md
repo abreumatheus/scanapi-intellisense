@@ -2,7 +2,7 @@
 
 # Scanapi - IntelliSense
 
-A extension that provides code completion for the [ScanApi](https://github.com/scanapi/scanapi) specification.<bR>
+An extension that provides code completion for the [ScanApi](https://github.com/scanapi/scanapi) specification.<bR>
 Check Scanapi's [documentation](https://github.com/scanapi/scanapi) for futher information about the specification.
 
 ## Installing
